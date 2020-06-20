@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Test CI
+          Hi Heroku
         </a>
       </header>
     </div>
